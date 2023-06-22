@@ -21,4 +21,6 @@ Al correr el comando para ejecutar las pruebas se creará una carpeta llamada **
  - Haga doble click sobre el archivo index.html
 
 Se abrirá una ventana de su browser mostrando algo similar a esto:
+![Captura de Pantalla 2023-06-21 a la(s) 21 53 20 (2)](https://github.com/kvel83/desaf-oTestJest/assets/106329497/9cc7c68b-9f67-4f01-a3fd-9fda25bea106)
+
 
